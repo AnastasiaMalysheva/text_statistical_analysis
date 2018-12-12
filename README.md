@@ -61,4 +61,4 @@ stats.get_lexical_density(terms)
 
 *Автор - Малышева Анастасия/Malysheva Anastasia*
 
-*For Social Data Processing course work.*
+*For Application aspects of Social Data Processing by Anton Kolonin course work.*
